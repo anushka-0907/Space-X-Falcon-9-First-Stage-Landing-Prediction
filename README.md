@@ -8,7 +8,7 @@ To build a predictive model that determines whether a SpaceX Falcon 9 first-stag
 
 ## Dataset
 
-* **Source**: SpaceX and NASA open data, processed from the https://www.coursera.org/learn/applied-data-science-capstone
+* **Source**: SpaceX and NASA open data, processed from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/
 * **Features**:
 
   * Launch Site
