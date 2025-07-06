@@ -1,6 +1,6 @@
 # SpaceX Launch Success Prediction
 
-This project applies machine learning to predict the success of SpaceX Falcon 9 first-stage landings. It is part of a data science capstone project, using historical launch data provided by SpaceX and NASA.
+This project applies machine learning to predict the success of SpaceX Falcon 9 first-stage landings. It is part of IBM data science certification capstone project, using historical launch data provided by SpaceX and NASA.
 
 ## Objective
 
@@ -8,7 +8,7 @@ To build a predictive model that determines whether a SpaceX Falcon 9 first-stag
 
 ## Dataset
 
-* **Source**: SpaceX and NASA open data, processed from the [Coursera Capstone Project](https://www.coursera.org/learn/applied-data-science-capstone)
+* **Source**: SpaceX and NASA open data, processed from the https://www.coursera.org/learn/applied-data-science-capstone
 * **Features**:
 
   * Launch Site
